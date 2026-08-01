@@ -6,19 +6,35 @@ An Interactive Business Intelligence Dashboard built using Microsoft Power BI to
 
 📸 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬
 📅 𝐐𝐮𝐚𝐫𝐭𝐞𝐫 𝟏
+
+
 <img width="887" height="499" alt="Screenshot 2026-08-01 160328" src="https://github.com/user-attachments/assets/4b835cc1-2b53-4872-95dd-bd7e612e9c22" />
 
+
 📅 𝐐𝐮𝐚𝐫𝐭𝐞𝐫 𝟐
+
+
 <img width="889" height="496" alt="Screenshot 2026-08-01 160351" src="https://github.com/user-attachments/assets/ad6a57b1-0708-4847-b5f7-abf30578570c" />
 
+
 📅 𝐐𝐮𝐚𝐫𝐭𝐞𝐫 𝟑
+
+
 <img width="888" height="498" alt="Screenshot 2026-08-01 160418" src="https://github.com/user-attachments/assets/1520013b-7737-4e60-a261-1454393430b5" />
 
+
 📅 𝐐𝐮𝐚𝐫𝐭𝐞𝐫 𝟒
+
+
 <img width="890" height="500" alt="Screenshot 2026-08-01 161813" src="https://github.com/user-attachments/assets/aeda83f7-3fbc-430f-8857-d896a62baf34" />
 
+
 📅 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐘𝐞𝐚𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
+
 <img width="892" height="496" alt="Screenshot 2026-08-01 160307" src="https://github.com/user-attachments/assets/629cf6b5-30f6-429a-8d4f-9ce147d56092" />
+
+
 
 📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
 The objective of this project is to transform raw Ecommerce sales data into meaningful business insights through an interactive Power BI dashboard.
